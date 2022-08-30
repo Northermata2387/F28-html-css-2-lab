@@ -1,0 +1,62 @@
+#top-block {
+border: 5px solid black;
+height: 225px;
+display: flex;
+margin: 30px 0px;
+}
+
+#purple-rec {
+    background-color: blueviolet;
+    height: 150px;
+    width: 40px;
+    margin: 60px 10px 10px ;
+}
+
+#green-rec {
+    background-color: green;
+    height: 200px;
+    width: 400px;
+    margin: 10px 40px 10px ;
+}
+
+#blue-circle {
+    background-color: lightblue;
+    height: 200px;
+    width: 200px;
+    margin: 10px 10px 10px ;
+    border-radius: 50%;
+}
+
+#middle-block {
+    border: 5px dotted black;
+    height: 225px;
+    display: flex;
+    margin: 30px 0px;
+}
+
+#beige-rec {
+    background-color: beige;
+    height: 150px;
+    width: 950px;
+    margin: auto;
+    box-shadow: 5px 5px 5px;
+}
+
+#flash-card {
+    background-color: white;
+    height: 300px;
+    width: 500px;
+    border: 1px solid lightgray;
+    margin: auto;
+    box-shadow: 3px 3px 10px lightgray;
+    display: flex;
+}
+
+#paragraph {
+    font-size: 30px;
+    font-weight: bolder;
+    margin: auto;
+    text-align: center;
+    letter-spacing: 10px;
+    color: darkblue;
+}

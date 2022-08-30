@@ -1,0 +1,33 @@
+.header-section {
+    background-color: rgb(99, 99, 99);
+    display: flex;
+    align-items: stretch;
+    height: 150px;
+    z-index: 3;
+  }
+  .right-section {
+    background-color: rgb(180, 180, 180);
+    display: flex;
+    align-items: flex-end;
+    height: 825px;
+    width: 150px;
+    float: right;
+    z-index: 2;
+  }
+  .left-section {
+    background-color: rgb(181, 181, 181);
+    display: flex;
+    align-items: flex-end;
+    height: 825px;
+    width: 150px;
+    float: left;
+    z-index: 2;
+  }
+  
+  footer {
+    background-color: black;
+    display: flex;
+    height: 75px;
+    margin-top: 750px;
+    z-index: 1;
+  }
